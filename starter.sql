@@ -1,3 +1,4 @@
+```sql
 SET SERVEROUTPUT ON;
 
 DECLARE
@@ -10,3 +11,4 @@ BEGIN
     END IF;
 END;
 /
+```
